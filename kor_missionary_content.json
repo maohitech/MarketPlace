@@ -10,5 +10,17 @@
         "viewCounter": 0,
         "isViewed": 0,
         "isChecked": false
+      },
+      {
+        "id": "2",  
+        "title": "놋쇠판을 얻게 된 니파이",
+        "type": "url",
+        "content": "https://www.churchofjesuschrist.org/study/manual/book-of-mormon-stories-for-young-readers/01-nephi-gets-the-brass-plates?lang=kor",
+        "language": "kor",
+        "firstView": 0,
+        "lastView": 0,
+        "viewCounter": 0,
+        "isViewed": 0,
+        "isChecked": false
       }
 ]
