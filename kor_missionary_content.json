@@ -8,7 +8,7 @@
         "firstView": 0,
         "lastView": 0,
         "viewCounter": 0,
-        "isViewed": 0,
+        "isViewed": false,
         "isChecked": false
       },
       {
@@ -20,7 +20,7 @@
         "firstView": 0,
         "lastView": 0,
         "viewCounter": 0,
-        "isViewed": 0,
+        "isViewed": false,
         "isChecked": false
       }
 ]
