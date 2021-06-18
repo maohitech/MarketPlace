@@ -22,5 +22,17 @@
         "viewCounter": 0,
         "isViewed": false,
         "isChecked": false
+      },
+      {
+        "id": "3",  
+        "title": "수다 타임: 새로운 친구를 어디서 사귀나요? (Where do you make new friends?) - Korean Listening Practice (한국어 자막)",
+        "type": "youtube",
+        "data": "https://www.youtube.com/watch?v=muR9h2GH6iA",
+        "language": "kor",
+        "firstView": 0,
+        "lastView": 0,
+        "viewCounter": 0,
+        "isViewed": false,
+        "isChecked": false
       }
 ]
